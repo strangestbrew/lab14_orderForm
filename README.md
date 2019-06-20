@@ -1,9 +1,9 @@
 ## User Stories
 
 ## Developer:
--[] As a developer, I want to add an 
--[] As a developer, 
--[] As a developer, 
+- [ ] As a developer, I want to add an 
+- [ ] As a developer, 
+As a developer, 
 
 ## Marketing:
 - As a marketer I want my website to be coherent and matching in style and color.
@@ -11,8 +11,8 @@
 
 
 ## End User Stories:
-As a user, I want to have clear add and remove to/from cart buttons for ease of navigation.
-As a user, I want a visually interesting and interactive page that tracks my purchases as I browse the products. 
+- As a user, I want to have clear add and remove to/from cart buttons for ease of navigation.
+- As a user, I want a visually interesting and interactive page that tracks my purchases as I browse the products. 
 
 
 
