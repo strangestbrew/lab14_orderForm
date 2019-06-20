@@ -1,9 +1,9 @@
 ## User Stories
 
 ## Developer:
-[] As a developer, I want to add an 
-[] As a developer, 
-[] As a developer, 
+-[] As a developer, I want to add an 
+-[] As a developer, 
+-[] As a developer, 
 
 ## Marketing:
 - As a marketer I want my website to be coherent and matching in style and color.
