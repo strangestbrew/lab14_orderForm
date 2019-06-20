@@ -1,9 +1,10 @@
 ## User Stories
 
 ## Developer:
-- [ ] As a developer, I want to add an 
-- [ ] As a developer, 
-As a developer, 
+- [ ] As a developer, I want to utilize my gloabal app.js library to best manage my page build out. 
+- [ ] As a developer, I want to optimize Local Storage to track my uder's input, and update their order.
+- [ ] As a developer, I will display all itmes for usability with pictures and acessible captions. 
+- [ ] As a developer, I will create a multi-part form to handle user data input for ordering. 
 
 ## Marketing:
 - As a marketer I want my website to be coherent and matching in style and color.
