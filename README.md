@@ -18,8 +18,8 @@
 
 
 ## Project Title:
-## Bus Mall Order Page
-## (lab14 Code Fellows 201 Bus Mall)
+Bus Mall Order Page
+(lab14 Code Fellows 201 Bus Mall)
 
 ## Motivation:
 Focus group results are in, and the BusMall is ready to be released. Feedback was so positive, that our products will now be available for online purhcase. 
