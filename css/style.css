@@ -1,12 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Arima+Madurai&display=swap');
 
-body, html {
+body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-image: linear-gradient(#f8f7fb, #6355b2);
-  border: 1px solid black;
-  height: 100%;
+  height: 100vh;
   margin: 5px;
   padding: 5px;
 }
@@ -14,8 +13,11 @@ body, html {
 header > nav > ul {  
   background:#52469a;
   border: 1px solid #52469a; 
+  clear: right; 
   color: white;
- font-family: 'Arima Madurai', cursive;
+  float: right; 
+  font-family: 'Arima Madurai', cursive;
+  text-align: right; 
 }
 
 a {
@@ -24,7 +26,6 @@ a {
   color: white;
   font-family: 'Arima Madurai', cursive;
   float: left;
-  display: inline;
 }
 
 header > h1 {
@@ -49,38 +50,47 @@ section > div > header {
 }
 
 main {
-  border: 1px solid green;
+  /* border: 1px solid green; */
   margin: 5px;
   padding: 5px;
 }
 
+form{
+  text-align: center;
+  
+}
+
 div {
-  border: 1px solid purple;
+  /* border: 1px solid purple; */
   margin: 5px;
   padding: 5px;
 }
 
 ol {
-  border: 1px solid orange;
+  /* border: 1px solid orange; */
   margin: 5px;
   padding: 5px;
 }
 
 form {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin: 5px; 
   padding: 5px; 
 }
 
 span {
-  border: 1px solid blue; 
+  /* border: 1px solid blue;  */
   margin: 5px;
   padding: 5px;
 }
 
 footer { 
-  border: 1px solid yellow;
+  /* border: 1px solid yellow; */
   margin: 5px;
   padding: 5px;
+  position: sticky;
+  position: fixed;
+  bottom: 0;
+  right: 0;   
 }
     
